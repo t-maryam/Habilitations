@@ -6,7 +6,7 @@ namespace habilitations2024.bddmanager
 {
     /// <summary>
     /// Singleton : connexion à la base de données et exécution des requêtes
-    /// </summary>
+    /// <summary>
     public class BddManager
     {
         /// <summary>
